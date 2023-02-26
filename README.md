@@ -1,7 +1,4 @@
-<img style="object-fit: cover;
-  border-radius: 50%;
-  height: auto;
-  width: 170px;" align='left' src="img/me.jpg">
+<img align='left' src="img/me.png">
 <h4>Matic Vertačnik</h4>
 <small><em>Full-Stack Web developer at <!--<a href="https://www.oneorigin.us/">OneOrigin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 </em> 📌 Ljubljana, Slovenija</small>
