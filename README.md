@@ -5,7 +5,7 @@
 
 [![Linkedin: Matic Vertacnik](https://img.shields.io/badge/-MaticVertačnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matic-vertacnik/)](https://www.linkedin.com/in/matic-vertacnik/) [![Twitter Follow](https://img.shields.io/twitter/follow/Pickle_Boxer?label=Follow)](https://twitter.com/intent/follow?screen_name=Pickle_Boxer) ![GitHub followers](https://img.shields.io/github/followers/PickleBoxer?label=Follow&style=social) ![iCloud](https://img.shields.io/badge/-matic.vertacnik@icloud.com-ffffff?style=social&logo=icloud)
 
-<br /><br />
+<br /><br /><br />
 
 ## About Me
 
