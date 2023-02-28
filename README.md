@@ -4,7 +4,7 @@
 
 <small><em>📌 Ljubljana, Slovenija</em></small>
 
-[![Linkedin: Matic Vertacnik](https://img.shields.io/badge/-MaticVertačnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matic-vertacnik/)](https://www.linkedin.com/in/matic-vertacnik/) [![iCloud](https://img.shields.io/badge/-matic.vertacnik@icloud.com-ffffff?&logo=icloud)](mailto:matic.vertacnik@icloud.com) [![Twitter Follow](https://img.shields.io/twitter/follow/Pickle_Boxer?label=Follow)](https://twitter.com/intent/follow?screen_name=Pickle_Boxer) [![GitHub followers](https://img.shields.io/github/followers/PickleBoxer?label=Follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPickleBoxer)
+[![Linkedin: Matic Vertacnik](https://img.shields.io/badge/-MaticVertačnik-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matic-vertacnik/)](https://www.linkedin.com/in/matic-vertacnik/) [![iCloud](https://img.shields.io/badge/matic.vertacnik@icloud.com-ffffff?&logo=icloud&style=for-the-badge)](mailto:matic.vertacnik@icloud.com) [![Twitter Follow](https://img.shields.io/badge/Follow-ffffff?style=for-the-badge&logo=twitter)](https://twitter.com/intent/follow?screen_name=Pickle_Boxer) [![GitHub follow](https://img.shields.io/badge/Follow-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPickleBoxer)
 <br />
 
 ## About Me
