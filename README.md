@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a full stack web developer from Slovenia with a primary focus on front-end development. My passion for creating beautiful and user-friendly websites is matched by my expertise in HTML, CSS, JavaScript, and jQuery. Additionally, I have experience with React, Angular, and Vue.js, and am always eager to learn new front-end frameworks. While my focus is on front-end development, I also have secondary experience in back-end development with PHP and Smarty. As a team player with strong communication skills, I am always eager to collaborate with others to bring projects to life.
+I am a full stack web developer from Slovenia with a primary focus on front-end development. My passion for creating beautiful and user-friendly websites is matched by my expertise in HTML, CSS, JavaScript, and jQuery. Additionally, I have some experience with React and Vue.js, and am always eager to learn new front-end frameworks. While my focus is on front-end development, I also have secondary experience in back-end development with PHP, Symfony and Laravel. As a team player with strong communication skills, I am always eager to collaborate with others to bring projects to life.
 
 ## ⚡ Skills
 
