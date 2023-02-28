@@ -1,6 +1,6 @@
 <img align='left' width="150" style="margin-right:20px;" src="img/me.png">
 <h3 style="margin:10px 0;">Matic Vertačnik</h3>
-<small><em>Full-Stack Web developer at Aer L.M.<!--<a href="https://www.oneorigin.us/">OneOrigin</a> --> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></small>
+<small><em>Full-Stack Web developer at Aer Wholesale<!--<a href="https://www.oneorigin.us/">OneOrigin</a> --> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></small>
 
 <small><em>📌 Ljubljana, Slovenija</em></small>
 
