@@ -1,7 +1,8 @@
 <img align='left' width="150" style="margin-right:20px;" src="img/me.png">
-<h4>Matic Vertačnik</h4>
-<small><em>Full-Stack Web developer at <!--<a href="https://www.oneorigin.us/">OneOrigin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
-</em> 📌 Ljubljana, Slovenija</small>
+<h3 style="margin:10px 0;">Matic Vertačnik</h3>
+<small><em>Full-Stack Web developer at Aer L.M.<!--<a href="https://www.oneorigin.us/">OneOrigin</a> --> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></small>
+
+📌 Ljubljana, Slovenija
 
 [![Linkedin: Matic Vertacnik](https://img.shields.io/badge/-MaticVertačnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matic-vertacnik/)](https://www.linkedin.com/in/matic-vertacnik/) [![iCloud](https://img.shields.io/badge/-matic.vertacnik@icloud.com-ffffff?&logo=icloud)](mailto:matic.vertacnik@icloud.com) [![Twitter Follow](https://img.shields.io/twitter/follow/Pickle_Boxer?label=Follow)](https://twitter.com/intent/follow?screen_name=Pickle_Boxer) [![GitHub followers](https://img.shields.io/github/followers/PickleBoxer?label=Follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPickleBoxer)
 <br /><br /><br />
