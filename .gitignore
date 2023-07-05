@@ -1,4 +1,7 @@
+# Ignore everything
+*
 
-*.pdf
-
-*.html
+# But not these files...
+!.gitignore
+!README.md
+!*/img/me.png
