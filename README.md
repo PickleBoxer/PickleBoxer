@@ -9,9 +9,15 @@
 
 ## About Me
 
-Hey there! I'm Matic, a full-stack web developer from Slovenia who loves diving into front-end magic. I have a blast working with HTML, CSS, JavaScript, jQuery, and Vue to bring cool, interactive experiences to life.
+Hey there! I'm Matic, a full-stack web developer from Slovenia who loves diving into front-end magic. I have
+a blast working with HTML5, CSS3, JavaScript, and modern libraries such as jQuery, Vue, and TailwindCSS to
+build interactive experiences. I also utilize tools like Bootstrap and Vite to streamline development and
+enhance performance.
 
 But that's not all—I can handle back-end stuff too with PHP, Symfony, and Laravel, making sure everything works smoothly behind the scenes.
+
+I'm passionate about crafting performance-driven and secure solutions, continuously exploring emerging
+technologies like DevOps, CI/CD, AI, and blockchain to keep my skills sharp and innovative.
 
 ## ⚡ Skills
 
@@ -24,6 +30,7 @@ Besides coding, I’m into loads of other cool stuff:
 - Always tinkering with the latest in web dev.
 - Super into DevOps, CI/CD, AI, LLM, and chatbots—basically anything that makes development smarter and faster.
 - Love exploring new tech like Three.js (WebGL) and blockchain.
+- Passionate about continuous learning through courses, certifications, and reading technical blogs.
 - Outdoorsy guy—hiking and nature are my go-tos for a recharge.
 - Big fan of strategic board games—love the mix of problem-solving and socializing.
 - Gym enthusiast—staying fit keeps me sharp and focused.
