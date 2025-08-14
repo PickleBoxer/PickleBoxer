@@ -19,6 +19,15 @@ But that's not all—I can handle back-end stuff too with PHP, Symfony, and Lara
 I'm passionate about crafting performance-driven and secure solutions, continuously exploring emerging
 technologies like DevOps, CI/CD, AI, and blockchain to keep my skills sharp and innovative.
 
+Recently, I developed a cross-platform desktop application using Tauri v2,
+featuring a Rust backend <img src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+and React frontend <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React">.
+The app leverages Docker to create isolated development environments inside devcontainers,
+enabling users to effortlessly spin up new projects and streamline their development workflow.
+
+<em>(Project is still in development)</em>
+
+
 ## ⚡ Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js) ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite) ![Vue](https://img.shields.io/badge/VueJs-black?style=flat-square&logo=vuedotjs) ![Php](https://img.shields.io/badge/Php-black?style=flat-square&logo=php) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony) ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel) ![PrestaShop](https://img.shields.io/badge/PrestaShop-black?style=flat-square&logo=prestashop) ![WordPress](https://img.shields.io/badge/WordPress-black?style=flat-square&logo=wordpress) ![WooCommerce](https://img.shields.io/badge/WooCommerce-black?style=flat-square&logo=woocommerce) ![npm](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm) ![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn) ![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=composer) ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=flat-square&logo=cloudflare)
