@@ -1,6 +1,6 @@
 <img align='left' width="150" style="margin-right:20px;" src="img/me.png">
 <h3 style="margin:10px 0;">Matic Vertačnik</h3>
-<small><em>Full-Stack Web developer at Aer Wholesale<!--<a href="https://www.oneorigin.us/">OneOrigin</a> --> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></small>
+<small><em>Full Stack developer | <a href="https://getdamp.app/">getdamp.app</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></small>
 
 <small><em>📌 Ljubljana, Slovenija</em></small>
 
@@ -24,8 +24,7 @@ featuring a Rust backend <img src="https://img.shields.io/badge/-Rust-000?style=
 and React frontend <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React">.
 The app leverages Docker to create isolated development environments inside devcontainers,
 enabling users to effortlessly spin up new projects and streamline their development workflow.
-
-<em>(Project is still in development)</em>
+<a href="https://getdamp.app/">getdamp.app</a>
 
 
 ## ⚡ Skills
