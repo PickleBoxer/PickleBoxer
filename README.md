@@ -19,8 +19,8 @@ But that's not all—I can handle back-end stuff too with PHP, Symfony, and Lara
 I'm passionate about crafting performance-driven and secure solutions, continuously exploring emerging
 technologies like DevOps, CI/CD, AI, and blockchain to keep my skills sharp and innovative.
 
-Recently, I developed a cross-platform desktop application using Tauri v2,
-featuring a Rust backend <img src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+Recently, I developed a cross-platform desktop application using Electron,
+featuring a Node.js backend <img src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 and React frontend <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React">.
 The app leverages Docker to create isolated development environments inside devcontainers,
 enabling users to effortlessly spin up new projects and streamline their development workflow.
